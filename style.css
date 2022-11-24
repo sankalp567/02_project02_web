@@ -69,7 +69,7 @@ hr{
     margin: 0 auto 10vh;
 }
 .top-continer{
-    background: -moz-linear-gradient(blue,skyblue,white);
+    background:linear-gradient(blue,skyblue,white);
     padding-top: 8vh;
 }
 .middle-continer{
